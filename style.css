@@ -1,0 +1,52 @@
+
+
+.title{
+
+    color:#da3773;
+}
+h2{
+    color:whitesmoke;
+}
+.des {
+    font-size: 25px;
+    margin-left: 150px;
+    margin-top: 150px;
+    font-style: inherit;
+  }
+
+a{
+    color: rgb(235, 229, 229);
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+
+
+ .navbar{
+     height: 600px;
+     padding-top: 10px;
+     background-image: url("munna.jpg");
+    background-size: 1300px 600px;
+
+ }
+
+
+ .navbar-menu a{
+     background: rgb(240, 241, 243);
+     border-radius: 5px;
+     margin: 300px 0px;
+     padding: 10px;
+     color: rgb(201, 16, 155);
+ }
+
+ .navbar-menu a:hover{
+     background-color: rgb(236, 157, 157);
+ }
+
+ .navbar-menu{
+    flex-direction: row;
+    justify-content: flex-end;
+    float: right;
+    padding-top: 4px;
+    padding-right: 4px;
+}
